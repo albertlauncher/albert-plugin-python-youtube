@@ -4,6 +4,8 @@
 
 Synopsis: <trigger> <query>"""
 
+#  Copyright (c) 2022 Manuel Schneider
+
 import json
 import re
 import time
